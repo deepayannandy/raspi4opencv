@@ -3,7 +3,7 @@ Easiest and effective way to build and install open cv in a raspberry pi 4 compu
 
 
 ```bash
-$ git clone 
+$ git clone https://github.com/deepayannandy/raspi4opencv.git
 $ sudo su
 $ chmod +x *.sh
 $ ./download-opencv.sh
